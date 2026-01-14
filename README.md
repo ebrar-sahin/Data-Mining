@@ -59,7 +59,7 @@ Mining aracı kullanılarak ham veriden anlamlı kurallar (Örn: Gece çalışı
 edilmesi) çıkarılmıştır. Oluşturulan karar ağacı, kişinin yaşam tarzına uygun tahminler yapabildiğini 
 kanıtlamıştır. <br>
 9. Ekler<br>
-10. <img width="845" height="466" alt="image" src="https://github.com/user-attachments/assets/4134f4d8-4766-40e6-bedf-98839c9acf24" /> <br>
+<img width="845" height="466" alt="image" src="https://github.com/user-attachments/assets/4134f4d8-4766-40e6-bedf-98839c9acf24" /> <br>
 <img width="832" height="456" alt="image" src="https://github.com/user-attachments/assets/6af125a0-01d9-4b77-95a1-d17a03cdccc0" /> <br>
 <img width="827" height="448" alt="image" src="https://github.com/user-attachments/assets/75a3c2b4-462e-4f97-bffc-99ed9c16b4d7" /> <br>
 
